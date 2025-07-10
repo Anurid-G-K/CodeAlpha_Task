@@ -1,16 +1,22 @@
 # Polyglot Translator
 
-A clean language translator web app using Flask.
+Basic Flask translation app (just 2 files needed)
 
-## Files
-- `app.py` - Flask backend
-- `templates/index.html` - Frontend interface
-
-## How to Run
-1. Install requirements:
+## How to run:
+1. Create a folder named `templates`
+2. Put `index.html` inside it
+3. Keep `app.py` outside the templates folder
+4. Run these commands:
 ```bash
 pip install flask requests
-
 python app.py
 
-Open http://localhost:5000 in your browser
+
+## Features
+
+Swap between 100+ languages
+Dark mode interface
+Copy translated text with one click
+Remembers your last used languages
+Character counter with warnings
+Clean, responsive design
