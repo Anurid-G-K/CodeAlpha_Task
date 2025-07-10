@@ -10,9 +10,10 @@ Basic Flask translation app (just 2 files needed)
 ```bash
 pip install flask requests
 python app.py
+5. Run your LocalHost to open the translator tool
 
 
-## Features
+## Features ##
 
 Swap between 100+ languages
 Dark mode interface
