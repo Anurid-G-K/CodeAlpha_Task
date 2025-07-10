@@ -10,3 +10,7 @@ A clean language translator web app using Flask.
 1. Install requirements:
 ```bash
 pip install flask requests
+
+python app.py
+
+Open http://localhost:5000 in your browser
